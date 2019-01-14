@@ -1,0 +1,12 @@
+Estrutura do projeto.
+ 
+Pastas
+
+contatooh
+	app
+		controller -> contoladores chamados pelas rotas da aplicão
+		models -> models que representam o domínio do problema
+		rotes -> rotas da aplicação
+		views -> views do template engine
+	config -> configuração do express, banco de dados etc.
+	public -> todos os arquivos acessíveis diretamente pelo navegador	
